@@ -24,5 +24,6 @@ I design and implement deep tech solutions in several domains. Many repositories
 * You can follow me on [Twitter](https://twitter.com/ThisIsFrag)
 * Add me on [keybase](https://keybase.io/fragadaleta) 
 * Subscribe to the newsletter I maintain [DSH Newsletter](https://datascienceathome.substack.com)
+* Read some of my notes on [Medium](https://frag.medium.com/)
 * You can speak face to face and [book me up](https://harmonizely.amethix.com)
 
