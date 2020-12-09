@@ -2,12 +2,27 @@
 
 ## I am frag. 
 
+## Francesco Gadaleta, that is.
 
-I work with math and computers.
+TL;DR; I build AI and Machine Learning solutions in several application domains.
 
-I write mainly in Python and [Rust](https://rust-lang.org). Not necessarily in that order.
+<hr />
 
-You may know me from my podcast [Data science at home podcast](https://datascienceathome.com) or from some work I have made with [Amethix Technologies](https://amethix.com).
+I've got a MSc in Computer Engineering from Politecnico di Milano and a PhD. in Computer Science from the University of Leuven (Belgium). 
+I work with math and computers since a very (very) young age.
+My favourite OS are *NIX systems, and the programming languages of choice are mainly Python and [Rust](https://rust-lang.org). Not necessarily in that order.
 
-You can follow me on [twitter](https://twitter.com/ThisIsFrag),  add me on [keybase](https://keybase.io/fragadaleta) or read some personal notes on [codingossip](https://codingossip.github.io)
+## Work
+
+You may know me from my podcast [Data science at home podcast](https://datascienceathome.com) or from some work I have made at [Amethix Technologies](https://amethix.com). 
+
+I design and implement deep tech solutions in several domains. Many repositories are not public for licensing restrictions. 
+
+
+## Where can you find me?
+
+* You can follow me on [Twitter](https://twitter.com/ThisIsFrag)
+* Add me on [keybase](https://keybase.io/fragadaleta) 
+* Subscribe to the newsletter I maintain [DSH Newsletter](https://datascienceathome.substack.com)
+* You can speak face to face and [book me up](https://harmonizely.amethix.com)
 
