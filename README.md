@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 ## I am frag. 
 
@@ -12,14 +12,14 @@ I've got a MSc in Computer Engineering from Politecnico di Milano and a PhD. in 
 I work with math and computers since a very (very) young age.
 My favourite OS are *NIX systems, and the programming languages of choice are mainly Python and [Rust](https://rust-lang.org). Not necessarily in that order.
 
-## Work
+## Work 👨‍💻 
 
-You may know me from my podcast [Data science at home podcast](https://datascienceathome.com) or from some work I have made at [Amethix Technologies](https://amethix.com). 
+You may know me from my podcast 🎙️ [Data science at home podcast](https://datascienceathome.com) or from some work 🤖 I have made at [Amethix Technologies](https://amethix.com). 
 
 I design and implement deep tech solutions in several domains. Many repositories are not public for licensing restrictions. 
 
 
-## Where can you find me?
+## Where can you find me? 📱
 
 * You can follow me on [Twitter](https://twitter.com/ThisIsFrag)
 * Add me on [keybase](https://keybase.io/fragadaleta) 
