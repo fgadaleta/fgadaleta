@@ -8,15 +8,15 @@ TL;DR; I build AI and Machine Learning solutions in several application domains.
 
 <hr />
 
-I've got a MSc in Computer Engineering from Politecnico di Milano and a PhD. in Computer Science from the University of Leuven (Belgium). 
+I have a MSc in Computer Engineering from Politecnico di Milano and a PhD. in Computer Science from the University of Leuven (Belgium). 
 I work with math and computers since a very (very) young age.
-My favourite OS are *NIX systems, and the programming languages of choice are mainly Python and [Rust](https://rust-lang.org). Not necessarily in that order.
+My favourite OSes are *NIX systems, and the programming languages of choice are mainly Python and [Rust](https://rust-lang.org), not necessarily in that order.
 
 ## Work 👨‍💻 
 
 You may know me from my podcast 🎙️ [Data science at home podcast](https://datascienceathome.com) or from some work 🤖 I have made at [Amethix Technologies](https://amethix.com). 
 
-I design and implement deep tech solutions in several domains. Many repositories are not public for licensing restrictions. 
+I design and implement deep tech solutions and highly-critical systems in several sectors (fintech, insurtech, military). Many repositories are not public for licensing restrictions. 
 
 
 ## Where can you find me? 📱
@@ -26,4 +26,3 @@ I design and implement deep tech solutions in several domains. Many repositories
 * Subscribe to the newsletter I maintain [DSH Newsletter](https://datascienceathome.substack.com)
 * Read some of my notes on [Medium](https://frag.medium.com/)
 * You can speak face to face and [book me up](https://harmonizely.amethix.com)
-
