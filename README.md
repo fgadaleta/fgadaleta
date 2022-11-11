@@ -22,7 +22,7 @@ I design and implement deep tech solutions and highly-critical systems in severa
 ## Where can you find me? 📱
 
 * You can follow me on [Twitter](https://twitter.com/ThisIsFrag)
-* You can follow me on [Mastodon](@fgadaleta@mastodon.social)
+* You can follow me on [Mastodon](https://mastodon.social/@fgadaleta)
 * Add me on [keybase](https://keybase.io/fragadaleta) 
 * Subscribe to the newsletter I maintain [DSH Newsletter](https://datascienceathome.substack.com)
 * Read some of my notes on [Medium](https://frag.medium.com/)
